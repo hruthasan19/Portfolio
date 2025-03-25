@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>App Development Icon</title>
+    <g id="app-dev-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="phone" stroke="#000000" stroke-width="2" x="30" y="10" width="40" height="80" rx="5"></rect>
+        <rect id="screen" fill="#FFFFFF" x="35" y="20" width="30" height="50" rx="1"></rect>
+        
+        <!-- App UI Elements -->
+        <rect id="header" fill="#2196F3" x="35" y="20" width="30" height="8" rx="1"></rect>
+        <circle id="avatar" fill="#E0E0E0" cx="40" cy="24" r="2"></circle>
+        <rect id="title" fill="#FFFFFF" x="45" y="23" width="15" height="2" rx="1"></rect>
+        
+        <rect id="card-1" fill="#F5F5F5" x="38" y="32" width="24" height="10" rx="2"></rect>
+        <rect id="card-2" fill="#F5F5F5" x="38" y="45" width="24" height="10" rx="2"></rect>
+        <rect id="card-3" fill="#F5F5F5" x="38" y="58" width="24" height="10" rx="2"></rect>
+        
+        <!-- Navigation Bar -->
+        <rect id="nav-bar" fill="#E0E0E0" x="35" y="70" width="30" height="8" rx="1"></rect>
+        <circle id="nav-1" fill="#9E9E9E" cx="42" cy="74" r="2"></circle>
+        <circle id="nav-2" fill="#9E9E9E" cx="50" cy="74" r="2"></circle>
+        <circle id="nav-3" fill="#9E9E9E" cx="58" cy="74" r="2"></circle>
+        
+        <!-- Home Button -->
+        <circle id="home-button" stroke="#000000" stroke-width="1" cx="50" cy="85" r="3"></circle>
+        
+        <!-- Code Elements -->
+        <path id="bracket-left" fill="#FF5722" d="M20,40 L15,50 L20,60"></path>
+        <path id="bracket-right" fill="#FF5722" d="M80,40 L85,50 L80,60"></path>
+        <path id="code-line-1" stroke="#4CAF50" stroke-width="1" d="M20,40 L30,40"></path>
+        <path id="code-line-2" stroke="#4CAF50" stroke-width="1" d="M20,50 L30,50"></path>
+        <path id="code-line-3" stroke="#4CAF50" stroke-width="1" d="M20,60 L30,60"></path>
+        <path id="code-line-4" stroke="#4CAF50" stroke-width="1" d="M70,40 L80,40"></path>
+        <path id="code-line-5" stroke="#4CAF50" stroke-width="1" d="M70,50 L80,50"></path>
+        <path id="code-line-6" stroke="#4CAF50" stroke-width="1" d="M70,60 L80,60"></path>
+    </g>
+</svg>

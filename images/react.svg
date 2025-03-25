@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>React Logo</title>
+    <g id="react-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="orbit-1" stroke="#61DAFB" stroke-width="4" cx="50" cy="50" rx="45" ry="18" transform="rotate(0)"></ellipse>
+        <ellipse id="orbit-2" stroke="#61DAFB" stroke-width="4" cx="50" cy="50" rx="45" ry="18" transform="rotate(60)"></ellipse>
+        <ellipse id="orbit-3" stroke="#61DAFB" stroke-width="4" cx="50" cy="50" rx="45" ry="18" transform="rotate(120)"></ellipse>
+        <circle id="nucleus" fill="#61DAFB" cx="50" cy="50" r="8"></circle>
+    </g>
+</svg>

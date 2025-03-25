@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Ionic Logo</title>
+    <g id="ionic-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="background" fill="#478AFF" cx="50" cy="50" r="40"></circle>
+        <circle id="inner-circle" fill="#FFFFFF" cx="50" cy="50" r="15"></circle>
+        <circle id="dot" fill="#478AFF" cx="70" cy="30" r="5"></circle>
+    </g>
+</svg>

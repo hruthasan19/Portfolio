@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Full Stack Development Icon</title>
+    <g id="fullstack-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Server -->
+        <rect id="server" stroke="#000000" stroke-width="2" fill="#E0E0E0" x="35" y="10" width="30" height="15" rx="2"></rect>
+        <circle id="server-light" fill="#4CAF50" cx="42" cy="17.5" r="2"></circle>
+        <rect id="server-slot-1" fill="#9E9E9E" x="48" y="15" width="12" height="2" rx="1"></rect>
+        <rect id="server-slot-2" fill="#9E9E9E" x="48" y="19" width="12" height="2" rx="1"></rect>
+        
+        <!-- Database -->
+        <ellipse id="db-top" stroke="#000000" stroke-width="1" fill="#BBDEFB" cx="50" cy="35" rx="15" ry="5"></ellipse>
+        <path id="db-body" stroke="#000000" stroke-width="1" fill="#BBDEFB" d="M35,35 L35,45 C35,47.76 41.72,50 50,50 C58.28,50 65,47.76 65,45 L65,35 C65,35 65,35 65,35"></path>
+        <ellipse id="db-bottom" stroke="#000000" stroke-width="1" fill="#BBDEFB" cx="50" cy="45" rx="15" ry="5"></ellipse>
+        
+        <!-- Connection Lines -->
+        <path id="connection-1" stroke="#2196F3" stroke-width="1" stroke-dasharray="2,1" d="M50,25 L50,30"></path>
+        <path id="connection-2" stroke="#2196F3" stroke-width="1" stroke-dasharray="2,1" d="M50,50 L50,55"></path>
+        
+        <!-- Browser -->
+        <rect id="browser" stroke="#000000" stroke-width="2" x="20" y="55" width="60" height="35" rx="3"></rect>
+        <rect id="browser-header" fill="#F5F5F5" x="20" y="55" width="60" height="8" rx="3"></rect>
+        <circle id="button-1" fill="#FF5252" cx="25" cy="59" r="1.5"></circle>
+        <circle id="button-2" fill="#FFEB3B" cx="30" cy="59" r="1.5"></circle>
+        <circle id="button-3" fill="#4CAF50" cx="35" cy="59" r="1.5"></circle>
+        
+        <!-- Browser Content -->
+        <rect id="content-area" fill="#FFFFFF" x="25" y="68" width="50" height="17" rx="1"></rect>
+        <rect id="header-bar" fill="#E0E0E0" x="25" y="68" width="50" height="4" rx="1"></rect>
+        <rect id="sidebar" fill="#F5F5F5" x="25" y="72" width="10" height="13" rx="1"></rect>
+        <rect id="content-1" fill="#E0E0E0" x="40" y="73" width="30" height="2" rx="1"></rect>
+        <rect id="content-2" fill="#E0E0E0" x="40" y="77" width="25" height="2" rx="1"></rect>
+        <rect id="content-3" fill="#E0E0E0" x="40" y="81" width="20" height="2" rx="1"></rect>
+        
+        <!-- Code Elements -->
+        <path id="bracket-left" fill="#FF5722" d="M10,70 L5,75 L10,80"></path>
+        <path id="bracket-right" fill="#FF5722" d="M90,70 L95,75 L90,80"></path>
+        
+        <!-- Stack Layers -->
+        <rect id="layer-1" fill="#FFC107" opacity="0.3" x="15" y="90" width="70" height="3" rx="1.5"></rect>
+        <rect id="layer-2" fill="#FF5722" opacity="0.3" x="20" y="93" width="60" height="3" rx="1.5"></rect>
+        <rect id="layer-3" fill="#9C27B0" opacity="0.3" x="25" y="96" width="50" height="3" rx="1.5"></rect>
+    </g>
+</svg>

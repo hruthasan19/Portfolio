@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Angular Logo</title>
+    <g id="angular-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M50,10 L90,25 L83,75 L50,90 L17,75 L10,25 Z" fill="#DD0031"></path>
+        <path d="M50,10 L50,90 L83,75 L90,25 Z" fill="#C3002F"></path>
+        <path d="M50,20 L30,75 L38,75 L42,65 L58,65 L62,75 L70,75 L50,20 Z M50,35 L56,58 L44,58 L50,35 Z" fill="#FFFFFF"></path>
+    </g>
+</svg>

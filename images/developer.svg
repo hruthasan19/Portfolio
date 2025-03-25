@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Developer Illustration</title>
+    <g id="developer-illustration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Desk -->
+        <rect id="desk" fill="#A05B53" x="100" y="300" width="300" height="20" rx="2"></rect>
+        <rect id="desk-leg-left" fill="#8D4C45" x="120" y="320" width="10" height="100"></rect>
+        <rect id="desk-leg-right" fill="#8D4C45" x="370" y="320" width="10" height="100"></rect>
+        
+        <!-- Chair -->
+        <rect id="chair-seat" fill="#6B6B6B" x="210" y="370" width="80" height="10" rx="2"></rect>
+        <rect id="chair-leg" fill="#9E9E9E" x="245" y="380" width="10" height="50"></rect>
+        <rect id="chair-base" fill="#6B6B6B" x="225" y="430" width="50" height="5" rx="2"></rect>
+        
+        <!-- Laptop -->
+        <rect id="laptop-base" fill="#4A4A4A" x="200" y="270" width="100" height="10" rx="2"></rect>
+        <rect id="laptop-screen" fill="#6B6B6B" x="210" y="220" width="80" height="50" rx="2"></rect>
+        <circle id="laptop-camera" fill="#FFFFFF" cx="250" cy="230" r="2"></circle>
+        <rect id="laptop-keyboard" fill="#5A5A5A" x="215" y="275" width="70" height="2" rx="1"></rect>
+        
+        <!-- Coffee Mug -->
+        <rect id="mug-body" fill="#6B6B6B" x="320" y="270" width="20" height="30" rx="2"></rect>
+        <rect id="mug-handle" fill="#6B6B6B" x="340" y="275" width="5" height="20" rx="2"></rect>
+        <rect id="coffee" fill="#8B572A" x="322" y="275" width="16" height="10" rx="1"></rect>
+        
+        <!-- Plant -->
+        <rect id="pot" fill="#6B6B6B" x="140" y="270" width="30" height="30" rx="2"></rect>
+        <path id="plant" fill="#4CAF50" d="M155,240 C170,250 165,270 155,270 C145,270 140,250 155,240 Z"></path>
+        <path id="plant-leaf" fill="#81C784" d="M155,250 C165,255 160,270 155,270 C150,270 145,255 155,250 Z"></path>
+        
+        <!-- Person -->
+        <!-- Head -->
+        <circle id="head" fill="#FFCC80" cx="250" cy="180" r="40"></circle>
+        <path id="hair" fill="#4A4A4A" d="M250,140 C280,140 290,160 290,180 C290,190 285,200 280,205 C275,210 270,215 250,215 C230,215 225,210 220,205 C215,200 210,190 210,180 C210,160 220,140 250,140 Z"></path>
+        
+        <!-- Body -->
+        <path id="body" fill="#E0E0E0" d="M220,220 L280,220 L290,370 L210,370 Z"></path>
+        <path id="arm-right" fill="#FFCC80" d="M280,230 C300,240 310,260 320,270 L310,280 C300,270 290,250 280,240 Z"></path>
+        
+        <!-- Legs -->
+        <path id="leg-left" fill="#3F51B5" d="M230,370 L250,370 L250,430 L230,430 Z"></path>
+        <path id="leg-right" fill="#3F51B5" d="M250,370 L270,370 L270,430 L250,430 Z"></path>
+        
+        <!-- Shoes -->
+        <path id="shoe-left" fill="#FF5722" d="M230,430 L250,430 L250,440 L220,440 Z"></path>
+        <path id="shoe-right" fill="#FF5722" d="M250,430 L270,430 L280,440 L250,440 Z"></path>
+    </g>
+</svg>
