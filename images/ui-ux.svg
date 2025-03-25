@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UI/UX Icon</title>
+    <g id="ui-ux-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="artboard" stroke="#000000" stroke-width="2" x="10" y="10" width="80" height="80" rx="2"></rect>
+        <rect id="canvas" fill="#FFFFFF" x="15" y="15" width="70" height="70" rx="1"></rect>
+        
+        <!-- Ruler -->
+        <rect id="ruler-horizontal" fill="#2196F3" x="15" y="15" width="70" height="5" rx="1"></rect>
+        <rect id="ruler-vertical" fill="#2196F3" x="15" y="15" width="5" height="70" rx="1"></rect>
+        
+        <!-- Design Elements -->
+        <rect id="element-1" fill="#E0E0E0" x="30" y="30" width="40" height="10" rx="2"></rect>
+        <rect id="element-2" fill="#E0E0E0" x="30" y="45" width="20" height="20" rx="2"></rect>
+        <rect id="element-3" fill="#E0E0E0" x="55" y="45" width="15" height="5" rx="1"></rect>
+        <rect id="element-4" fill="#E0E0E0" x="55" y="55" width="15" height="5" rx="1"></rect>
+        <rect id="element-5" fill="#E0E0E0" x="30" y="70" width="40" height="5" rx="1"></rect>
+        
+        <!-- Pencil -->
+        <path id="pencil" fill="#FF5722" d="M75,25 L85,15 L90,20 L80,30 Z"></path>
+        <path id="pencil-tip" fill="#795548" d="M75,25 L73,27 L77,31 L79,29 Z"></path>
+        
+        <!-- Measurement Lines -->
+        <path id="measure-1" stroke="#2196F3" stroke-width="1" stroke-dasharray="2,1" d="M30,25 L70,25"></path>
+        <path id="measure-2" stroke="#2196F3" stroke-width="1" stroke-dasharray="2,1" d="M25,30 L25,70"></path>
+    </g>
+</svg>

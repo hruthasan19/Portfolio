@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Web Design Icon</title>
+    <g id="webdesign-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="monitor" stroke="#000000" stroke-width="2" x="10" y="10" width="80" height="60" rx="2"></rect>
+        <rect id="screen" fill="#FFFFFF" x="15" y="15" width="70" height="45" rx="1"></rect>
+        <rect id="header" fill="#E0E0E0" x="15" y="15" width="70" height="10" rx="1"></rect>
+        <circle id="button-1" fill="#FF5252" cx="20" cy="20" r="2"></circle>
+        <circle id="button-2" fill="#FFEB3B" cx="26" cy="20" r="2"></circle>
+        <circle id="button-3" fill="#4CAF50" cx="32" cy="20" r="2"></circle>
+        
+        <!-- Design Elements -->
+        <rect id="sidebar" fill="#F5F5F5" x="15" y="25" width="15" height="35" rx="1"></rect>
+        <rect id="menu-1" fill="#E0E0E0" x="18" y="30" width="9" height="2" rx="1"></rect>
+        <rect id="menu-2" fill="#E0E0E0" x="18" y="35" width="9" height="2" rx="1"></rect>
+        <rect id="menu-3" fill="#E0E0E0" x="18" y="40" width="9" height="2" rx="1"></rect>
+        <rect id="menu-4" fill="#E0E0E0" x="18" y="45" width="9" height="2" rx="1"></rect>
+        
+        <rect id="content-1" fill="#E0E0E0" x="35" y="30" width="45" height="5" rx="1"></rect>
+        <rect id="content-2" fill="#E0E0E0" x="35" y="40" width="20" height="15" rx="1"></rect>
+        <rect id="content-3" fill="#E0E0E0" x="60" y="40" width="20" height="15" rx="1"></rect>
+        
+        <!-- Stand -->
+        <rect id="stand" fill="#000000" x="45" y="70" width="10" height="15" rx="1"></rect>
+        <rect id="base" fill="#000000" x="35" y="85" width="30" height="5" rx="2"></rect>
+        
+        <!-- Design Tools -->
+        <circle id="color-palette" fill="#FF9800" cx="85" cy="85" r="5"></circle>
+        <circle id="color-1" fill="#F44336" cx="85" cy="82" r="1"></circle>
+        <circle id="color-2" fill="#2196F3" cx="88" cy="85" r="1"></circle>
+        <circle id="color-3" fill="#4CAF50" cx="85" cy="88" r="1"></circle>
+        <circle id="color-4" fill="#9C27B0" cx="82" cy="85" r="1"></circle>
+        
+        <path id="pencil" fill="#795548" d="M15,85 L20,80 L25,85 L20,90 Z"></path>
+        <path id="pencil-tip" fill="#FF5722" d="M15,85 L17,87 L15,89 L13,87 Z"></path>
+    </g>
+</svg>
